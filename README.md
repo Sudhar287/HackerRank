@@ -5,4 +5,4 @@
 </p>
 
 My solutions for HackerRank problems with a difficulty rating of Medium and Hard. <br/>
-Not all my codes have been posted so far. Might be done by the month end. <br/>
+Tool used to scrape all the submissions: https://github.com/Sudhar287/HackerRank_Scrape
